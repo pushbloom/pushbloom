@@ -18,7 +18,7 @@
 </div>
 
   <p align="center">
-  <img src="https://files.catbox.moe/kxqlas.png" alt="Collab" />
+  <img src="https://files.catbox.moe/mri67p.png" alt="Collab" />
 
 <div align="center">
 <a href="https://feds.lol/bl4o">
