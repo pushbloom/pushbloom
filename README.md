@@ -17,9 +17,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
 </div>
 
-  <p align="center">
-  <img src="https://files.catbox.moe/mri67p.png" alt="Collab" />
-
 <div align="center">
 <a href="https://feds.lol/bl4o">
   <img src="https://feds.lol/bl4o/opengraph-image" width="400">
